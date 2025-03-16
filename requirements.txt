@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+requests
+pytube
+torch
+torchaudio
+git+https://github.com/Zyphra/Zonos.git#egg=zonos
+python-dotenv
+sudachidict_full
+sudachipy
